@@ -205,13 +205,9 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305151207450324_69.png",[BD]中天新闻
 #EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png",[BD]台视新闻
 https://stream1.freetv.fun/6d45c852234adf9247cfc6eb9b1682de0defb8f84183c6dcf6a39bb24c07af32.m3u8
-#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2024/01/02/large/20240102024504364874_25.png",[BD]TVBS綜藝
-https://stream1.freetv.fun/dc2bd15e1472790c25f02ba6c146da0775923a5a5781738e7261316224156199.ctv
 #EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png",[BD]三立新闻
-#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png",[BD]tvbs台劇
-https://stream1.freetv.fun/2761a126fe93b722d0c1a1b0cd79c4d5c42320793b0877d7c043c28dea508583.ctv
 #EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/img/logo/1_164.jpg",[HD]人間衛視
 https://stream1.freetv.fun/ff4e581dcd07e50b3406e07d6de18bc74170db8e087ab4f51a153f8a91ccdbfb.m3u8
 #EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2025/01/26/large/20250126043923468573_57.png",[BD]澳视资讯
@@ -224,8 +220,6 @@ https://stream1.freetv.fun/637ceff2dfb72b24ad6929da061ccf235af38b9469ba999c577b1
 https://stream1.freetv.fun/40f7c3742a7d2f6e39b38788b5ad475d597230db2fed45a6ffa84ba63ee7c849.m3u8
 #EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png",[SD]经典港片电影
 https://stream1.freetv.fun/346fdf2d901253fe68a9511c255abe72ce0f36fcd9f0b679b5ec4a2c3d6cb6fc.ctv
-#EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/04/28/large/20230428003944893108_94.jpg",[BD]經典電影
-https://stream1.freetv.fun/5c02c5c3aef32c5e3e7568b898ec456729c0a5ce6168947a0d8844433b2f1ea4.ctv
 #EXTINF:-1 group-title="🌊港·澳·台" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711230359148592_68.jpg",[BD]龙华日韩
 https://stream1.freetv.fun/9c2920df490df6a08c307894de50ccb79ac68fb82eebf6b8d6e8f2b1a3dc3509.m3u8
 #EXTINF:-1 group-title="Global" tvg-logo="https://livecdn.zbds.org/logo/亚洲新闻.png",亚洲新闻
